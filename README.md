@@ -18,6 +18,8 @@ https://developer.android.com/quick-guides/content/display-user-input
 
 https://medium.com/@gracekim1611/android-studio-dialogs-edb96717a64e
 
+https://developer.android.com/develop/ui/views/notifications/snackbar/showing#java
+
 
 
 ## Verbal Collaboration
