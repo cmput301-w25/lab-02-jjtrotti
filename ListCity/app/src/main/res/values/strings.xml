@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListCity</string>
+    <string name="list_city">List City</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="sample_text">sample_text</string>
+</resources>
