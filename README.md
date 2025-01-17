@@ -9,9 +9,14 @@
 ## References and Resources
 
 https://developer.android.com/develop/ui/views/components/button#java
+
 https://www.youtube.com/watch?v=Eiw5kRObUS0&ab_channel=Randomcode
+
 https://medium.com/@charlesliu_83897/using-onclicklistener-in-android-studio-82d4ce026e62#:~:text=After%20Android%20Studio%20creates%20a,the%20onClick%20attribute%20is%20clicked.&text=Another%20way%20to%20implement%20an,implement%20in%20the%20onCreate%20method.
+
 https://developer.android.com/quick-guides/content/display-user-input
+
+https://medium.com/@gracekim1611/android-studio-dialogs-edb96717a64e
 
 
 
